@@ -16,6 +16,37 @@ body {
   top: 142.75px;
   z-index: 2;
 }
+
+.videoprew-1 {
+  position: absolute;
+  left: 953.72px;
+  top: 223.51px;
+  z-index: 4;
+}
+.videoprew-2 {
+  position: absolute;
+  left: 1158.11px;
+  top: 198.65px;
+  z-index: 4;
+}
+.videoprew-3 {
+  position: absolute;
+  left: 1045.68px;
+  top: 347.2px;
+  z-index: 4;
+}
+.videoprew-4 {
+  position: absolute;
+  left: 872px;
+  top: 407px;
+  z-index: 4;
+}
+.videoprew-5 {
+  position: absolute;
+  left: 1131.48px;
+  top: 492.48px;
+z-index: 4;
+}
 .middle-coube {
   left: 1085.98px;
   top: 1646.97px;
