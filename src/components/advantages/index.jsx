@@ -13,7 +13,7 @@ export default function Advantages() {
             про преимущества/технологии про преимущества/технологиипро
             преимущества/технологиипро преимущества/технологии
           </p>
-          <button className="button-standart button-black">
+          <button className="button-standart">
             <img src={download} alt="" /> Download now
           </button>
         </div>

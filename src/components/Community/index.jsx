@@ -10,10 +10,10 @@ export default function Community() {
         <p className="community__advanteges">
            Gро преимущества/технологии  
           </p>
-        <button className="button-standart button-black">
+        <button className="button-standart">
             <img src={telegram} alt="" />t.me/DeCast
           </button>
-          <button className="button-standart button-black">
+          <button className="button-standart">
             <img src={github} alt="" />github.com/DeCast
           </button>
           <p className="community__text">

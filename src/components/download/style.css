@@ -38,16 +38,6 @@
   .suggest-text__advanteges {
     line-height: 22px;
   }
-  .white-fox {
-    display: block;
-  }
-  .authorize-white {
-    border: 1px solid #ffffff;
-    color: #ffffff;
-  }
-  .blue-fox {
-    display: none;
-  }
   
   .button-standart {
     display: flex;

@@ -15,7 +15,7 @@ export default function Download() {
             преимущества/преимущества/технологии про преимущества/
           </p>
           <div className="suggest-text__buttons">
-          <button className="button-standart button-black">
+          <button className="button-standart">
               <img src={windows} alt="" /> Download Windows
             </button>
           <button className="button-standart button-white">

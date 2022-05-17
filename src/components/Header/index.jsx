@@ -20,7 +20,7 @@ function Header() {
         <div className='nav__item'>Menu1</div>
         <button className='other-icon__authorize authorize-white'>
           <img className='authorize__mask blue-fox' src={fox} alt='' />
-          <img className='authorize__mask white-fox' src={white_fox} alt='' />
+          {/* <img className='authorize__mask white-fox' src={white_fox} alt='' /> */}
           <p className='authorize__text'>Authorize</p>
         </button>
       </nav>

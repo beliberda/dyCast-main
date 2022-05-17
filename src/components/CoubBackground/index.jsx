@@ -1,10 +1,10 @@
 import React from 'react';
 import './style.css';
-import BigCoube from "../../assets/RoundCube-Blue-big.png";
-import MiddleCoube from "../../assets/RoundCube-Blue-middle.png";
-import Small_1 from "../../assets/RoundCube-Blue-small-1.png";
-import Small_2 from "../../assets/RoundCube-Blue-small-2.png";
-import Small_3 from "../../assets/RoundCube-Blue-small-3.png";
+import BigCoube from "../../assets/RoundCube-Black-big.png";
+import MiddleCoube from "../../assets/RoundCube-Black-middle.png";
+import Small_1 from "../../assets/RoundCube-Black-small-1.png";
+import Small_2 from "../../assets/RoundCube-Black-small-2.png";
+import Small_3 from "../../assets/RoundCube-Black-small-3.png";
 import Vector_Group from "../../assets/Vector-group-1.svg";
 import Vector_Group_2 from "../../assets/Vector-group-2.svg";
 import videoprew1 from "../../assets/VideoPrew1.png";

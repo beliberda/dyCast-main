@@ -8,7 +8,8 @@ body {
   position: absolute;
   overflow: hidden;
   width: 100%;
-  background-color: #3a86ff;
+  /* background-color: #3a86ff; */
+  background: linear-gradient(90deg, #000000 0%, #292929 100%);
   min-height: 2000px;
 }
 .big-coube {
