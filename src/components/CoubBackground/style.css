@@ -1,0 +1,53 @@
+body {
+  overflow-x: hidden;
+}
+.background img {
+  position: absolute;
+}
+.background {
+  position: absolute;
+  overflow: hidden;
+  width: 100%;
+  background-color: #3a86ff;
+  min-height: 2000px;
+}
+.big-coube {
+  left: 1006.86px;
+  top: 142.75px;
+  z-index: 2;
+}
+.middle-coube {
+  left: 1085.98px;
+  top: 1646.97px;
+  z-index: 2;
+}
+.small-coube {
+  left: 754.2px;
+  top: 672.72px;
+  z-index: 2;
+}
+.small-2-coube {
+  left: 1411.88px;
+  top: 1011.44px;
+  z-index: 2;
+}
+.small-3-coube {
+  left: 604.97px;
+  top: 1328.6px;
+  z-index: 2;
+}
+
+.Vector-group {
+  position: absolute;
+  z-index: 3;
+  left: 939.17px;
+  top: 273.95px;
+}
+.Vector-group-2 {
+  position: absolute;
+  z-index: 1;
+  width: 695.66px;
+  height: 1352.04px;
+  left: 771.44px;
+  top: 512.38px;
+}
