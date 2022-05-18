@@ -1,5 +1,6 @@
 import React from 'react';
 import './style.css';
+import laptop from "../../assets/laptop-mini.png"
 import windows from "../../assets/windows.svg";
 import apple from "../../assets/apple.svg";
 export default function Download() {
@@ -23,6 +24,7 @@ export default function Download() {
             </button>
           </div>
         </div>
+        <img src={laptop} alt="" className="main-suggest__laptop" />
         <div className="main-suggest__advanteges">
           <div className="advanteges windows">
             {" "}

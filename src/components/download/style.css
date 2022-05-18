@@ -5,8 +5,9 @@
     padding: 46.71px 49.64px 47.51px 43.69px;
     border: 1px solid #e7e7e7;
     border-radius: 4px;
-    gap: 146px;
+    gap: 10px;
   }
+
   .main-suggest__suggest-text {
     display: flex;
     flex-direction: column;
@@ -59,6 +60,26 @@
     background: #ffffff !important;
     color: #222222 !important;
   }
+.main-suggest__laptop {
+  /* max-width: 603px; */
+ max-width: 576px;
+  max-height: 332px;
+  align-self: center;
+  width: 58%;
+}
+
+@media (max-width:1024px) {
+  .main__main-suggest {
+    margin-top: 101px;
+    padding: 26.71px 29.64px 27.51px 23.69px;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 40px;
+  }
+  .main-suggest__laptop {
+    width: 100%;
+  }
+}
 
 /* 
 .download {
