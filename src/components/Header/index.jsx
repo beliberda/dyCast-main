@@ -13,6 +13,7 @@ function Header() {
       <img src={DeCast_logo} alt="" className="footer-logo" />
       <p>DeCast</p>
       </a>
+      {/* <label for="menu-checkbox" class="toggle-button" data-open="Menu" data-close="Close" onclick></label> */}
       <nav className='nav'>
         <div className='nav__item'>Menu1</div>
         <div className='nav__item'>Menu1</div>
@@ -23,6 +24,7 @@ function Header() {
           {/* <img className='authorize__mask white-fox' src={white_fox} alt='' /> */}
           <p className='authorize__text'>Authorize</p>
         </button>
+
       </nav>
     </div>
   );

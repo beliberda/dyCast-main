@@ -39,4 +39,8 @@ a,a:visited {
     /* background: #3a86ff; */
     color: #ffffff;
   }
-  
+  @media (max-width:768px) {
+    .content {
+      padding: 0 5%;
+    }
+  }

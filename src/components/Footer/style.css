@@ -5,6 +5,7 @@
   padding-bottom: 56px;
   display: flex;
   justify-content: space-between;
+  gap: 20px;
 }
 .footer p {
   font-weight: 400;

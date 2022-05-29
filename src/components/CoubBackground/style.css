@@ -83,3 +83,9 @@ z-index: 4;
   left: 771.44px;
   top: 512.38px;
 }
+
+@media (max-width: 1024px) {
+  .background {
+    min-height: 540%;
+  }
+}
